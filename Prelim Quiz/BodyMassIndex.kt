@@ -1,5 +1,5 @@
 fun main() {
-    println(calculateBMI(40.5, 1.677)) // Example usage with weight in kilograms and height in meters
+    println(calculateBMI(40.5, 67.7)) 
 }
 
 fun calculateBMI(weightKg: Double, heightM: Double): Double {
